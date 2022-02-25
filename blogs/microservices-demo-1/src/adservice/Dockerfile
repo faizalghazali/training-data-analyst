@@ -9,7 +9,7 @@ RUN ./gradlew downloadRepos
 COPY . .
 RUN ./gradlew installDist
 
-FROM openjdk:8-alpine
+FROM openjdk:oraclelinux8
 
 RUN apk add --no-cache libc6-compat
 
