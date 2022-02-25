@@ -16,7 +16,7 @@
 
 # Use the official Python image.
 # https://hub.docker.com/_/python
-FROM python:3.8
+FROM python:3.10.0b3
 
 # Install gcloud sdk
 RUN apt-get update -y && apt-get install --no-install-recommends -y -q ca-certificates wget unzip git
