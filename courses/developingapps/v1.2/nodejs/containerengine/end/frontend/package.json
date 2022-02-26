@@ -9,7 +9,7 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "@google-cloud/datastore": "~4.2.0",
+    "@google-cloud/datastore": "~4.5.2",
     "@google-cloud/language": "^3.2.6",
     "@google-cloud/pubsub": "^0.31.1",
     "@google-cloud/spanner": "^4.0.2",
