@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@google-cloud/datastore": "~4.2.0",
-    "nconf": "~0.10.0"
+    "nconf": "~0.11.4"
   },
   "engines": {
     "node": ">=4.3.2"
