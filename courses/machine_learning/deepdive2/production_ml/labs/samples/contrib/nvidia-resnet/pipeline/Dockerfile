@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM python:3.11.0a4-slim
+FROM python:3.11.0a5-slim
 
 # Install Kubeflow Pipelines
 RUN pip3 install kfp --upgrade
