@@ -13,7 +13,7 @@
     "@google-cloud/pubsub": "^0.13.2",
     "@google-cloud/spanner": "^0.7.1",
     "lodash": "~4.17.4",
-    "nconf": "~0.8.4"
+    "nconf": "~0.11.0"
   },
   "engines": {
     "node": ">=4.3.2"
