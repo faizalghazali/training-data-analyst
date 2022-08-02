@@ -43,7 +43,7 @@
         <google.languageapi.version>0.24.0-beta</google.languageapi.version>
         <google.soanner.version>0.24.0-beta</google.soanner.version>
         <google.cloudstorage.version>1.6.0</google.cloudstorage.version>
-        <google-api-pubsub.version>v1-rev8-1.21.0</google-api-pubsub.version>
+        <google-api-pubsub.version>v1beta1a-rev20210809-2.0.0</google-api-pubsub.version>
 	</properties>
 
 	<dependencies>
