@@ -10,18 +10,18 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@google-cloud/datastore": "~4.2.0",
-    "@google-cloud/debug-agent": "^4.0.3",
+    "@google-cloud/debug-agent": "^5.0.0",
     "@google-cloud/error-reporting": "^1.1.1",
     "@google-cloud/language": "^3.2.6",
-    "@google-cloud/pubsub": "^0.31.1",
-    "@google-cloud/spanner": "^4.0.2",
-    "@google-cloud/storage": "^3.2.1",
+    "@google-cloud/pubsub": "^2.0.0",
+    "@google-cloud/spanner": "^5.0.0",
+    "@google-cloud/storage": "^5.0.0",
     "express": "~4.17.1",
     "lodash": "~4.17.15",
     "multer": "^1.4.2",
-    "nconf": "~0.10.0",
+    "nconf": "~0.11.4",
     "prompt": "~1.0.0",
-    "pug": "2.0.4"
+    "pug": "3.0.1"
   },
   "engines": {
     "node": ">= 12.20.0"
