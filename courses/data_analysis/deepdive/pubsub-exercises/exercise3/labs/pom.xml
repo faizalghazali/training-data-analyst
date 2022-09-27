@@ -18,12 +18,12 @@
     <dependency>
       <groupId>com.beust</groupId>
       <artifactId>jcommander</artifactId>
-      <version>1.72</version>
+      <version>1.75</version>
     </dependency>
     <dependency>
       <groupId>com.google.cloud</groupId>
       <artifactId>google-cloud-pubsub</artifactId>
-      <version>1.113.1</version>
+      <version>1.115.1</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/joda-time/joda-time -->
     <dependency>
@@ -35,7 +35,7 @@
     <dependency>
       <groupId>com.google.protobuf</groupId>
       <artifactId>protobuf-java-util</artifactId>
-      <version>3.12.4</version>
+      <version>3.20.0</version>
     </dependency>
   </dependencies>
 <build>
