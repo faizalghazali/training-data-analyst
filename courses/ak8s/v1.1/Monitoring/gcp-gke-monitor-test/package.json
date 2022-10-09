@@ -5,7 +5,9 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js",
+    "prepare": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -21,10 +23,12 @@
   },
   "homepage": "https://github.com/brianeiler/gcp-gke-monitoring#readme",
   "dependencies": {
-    "@google-cloud/monitoring": "^1.2.2",
+    "@google-cloud/monitoring": "^2.0.0",
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
-    "googleapis": "^40.0.1",
-    "nanotimer": "^0.3.15"
-  }
+    "googleapis": "^49.0.0",
+    "nanotimer": "^0.3.15",
+    "@snyk/protect": "latest"
+  },
+  "snyk": true
 }
