@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:22.10
 MAINTAINER Rajdeep Dua "dua_rajdeep@yahoo.com"
 RUN apt-get update -y
 RUN apt-get install -y python-pip python-dev build-essential python-mpltoolkits.basemap python-numpy python-matplotlib
