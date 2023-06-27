@@ -39,7 +39,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
         <google.datastore.version>1.102.4</google.datastore.version>
-        <google.pubsub.version>1.106.0</google.pubsub.version>
+        <google.pubsub.version>1.123.16</google.pubsub.version>
         <google.languageapi.version>1.100.0</google.languageapi.version>
         <google.spanner.version>1.54.0</google.spanner.version>
         <google.cloudstorage.version>1.108.0</google.cloudstorage.version>
