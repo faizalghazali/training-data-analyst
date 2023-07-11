@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@google-cloud/datastore": "~1.0.0",
-    "@google-cloud/pubsub": "^0.13.2",
+    "@google-cloud/pubsub": "^3.0.0",
     "body-parser": "~1.17.1",
     "express": "~4.15.2",
     "lodash": "~4.17.4",
