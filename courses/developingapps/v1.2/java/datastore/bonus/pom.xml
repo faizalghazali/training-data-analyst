@@ -41,7 +41,7 @@
         <google.pubsub.version>1.106.0</google.pubsub.version>
         <google.languageapi.version>1.100.0</google.languageapi.version>
         <google.spanner.version>1.54.0</google.spanner.version>
-        <google.cloudstorage.version>1.108.0</google.cloudstorage.version>
+        <google.cloudstorage.version>2.28.0</google.cloudstorage.version>
         <google-api-pubsub.version>v1-rev452-1.25.0</google-api-pubsub.version>
 	</properties>
 
