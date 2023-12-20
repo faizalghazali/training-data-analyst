@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python:3.10.13
 ENV KAGGLE_USERNAME=[YOUR KAGGLE USERNAME] \
     KAGGLE_KEY=[YOUR KAGGLE KEY]
 RUN pip install kaggle
