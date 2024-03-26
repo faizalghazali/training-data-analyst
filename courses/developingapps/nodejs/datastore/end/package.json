@@ -11,7 +11,7 @@
   "dependencies": {
     "@google-cloud/datastore": "~1.0.0",
     "body-parser": "~1.17.1",
-    "express": "~4.15.2",
+    "express": "~4.19.2",
     "lodash": "~4.17.4",
     "nconf": "~0.8.4",
     "prompt": "~1.0.0",
