@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python:3.12.5
 WORKDIR /app
 COPY . .
 RUN pip install gunicorn
